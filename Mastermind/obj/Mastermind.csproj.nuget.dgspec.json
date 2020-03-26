@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rsche\\source\\repos\\Mastermind\\Mastermind\\Mastermind.csproj": {}
+    "C:\\Users\\rsche\\projects\\Quadax_Assessment\\Mastermind\\Mastermind\\Mastermind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rsche\\source\\repos\\Mastermind\\Mastermind\\Mastermind.csproj": {
+    "C:\\Users\\rsche\\projects\\Quadax_Assessment\\Mastermind\\Mastermind\\Mastermind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rsche\\source\\repos\\Mastermind\\Mastermind\\Mastermind.csproj",
+        "projectUniqueName": "C:\\Users\\rsche\\projects\\Quadax_Assessment\\Mastermind\\Mastermind\\Mastermind.csproj",
         "projectName": "Mastermind",
-        "projectPath": "C:\\Users\\rsche\\source\\repos\\Mastermind\\Mastermind\\Mastermind.csproj",
+        "projectPath": "C:\\Users\\rsche\\projects\\Quadax_Assessment\\Mastermind\\Mastermind\\Mastermind.csproj",
         "packagesPath": "C:\\Users\\rsche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rsche\\source\\repos\\Mastermind\\Mastermind\\obj\\",
+        "outputPath": "C:\\Users\\rsche\\projects\\Quadax_Assessment\\Mastermind\\Mastermind\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
