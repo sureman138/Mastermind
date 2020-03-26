@@ -1,0 +1,11 @@
+C:\Users\rsche\source\repos\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.exe
+C:\Users\rsche\source\repos\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.deps.json
+C:\Users\rsche\source\repos\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.json
+C:\Users\rsche\source\repos\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.dev.json
+C:\Users\rsche\source\repos\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.dll
+C:\Users\rsche\source\repos\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.pdb
+C:\Users\rsche\source\repos\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.csprojAssemblyReference.cache
+C:\Users\rsche\source\repos\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\rsche\source\repos\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfo.cs
+C:\Users\rsche\source\repos\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.dll
+C:\Users\rsche\source\repos\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.pdb
